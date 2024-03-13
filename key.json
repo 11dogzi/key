@@ -1,14 +1,14 @@
 {
-    "activation_codes":[
+    "activation_codes": [
         {
-            "activation_code":"ABC123",
-            "UUID":"1234567890abcdef",
-            "expiry_date":"2023-12-31"
+            "activation_code": "ABC123",
+            "UUID": "1234567890abcdef",
+            "expiry_date": "2023-12-31"
         },
         {
-            "activation_code":"DEF456",
-            "UUID":"A8A0DB68-E9CE-1A17-AB10-047C16B99F58",
-            "expiry_date":"2023-12-31"
+            "activation_code": "DEF456",
+            "UUID": "A8A0DB68-E9CE-1A17-AB10-047C16B99F58",
+            "expiry_date": "2023-12-31"
         }
     ]
 }
