@@ -1,10 +1,18 @@
-[
-    {
-        "activation_code": "ABCD-1234-EFGH-5678",
-        "used": false
-    },
-    {
-        "activation_code": "IJKL-5678-MNOP-9012",
-        "used": false
-    }
-]
+{
+    "activation_codes": [
+        {
+            "activation_code": "ABC123",
+            "used": false,
+            "UUID": "1234567890abcdef",
+            "expiry_date": "2023-12-31",
+            "created_at": "2023-03-15T12:00:00Z"
+        },
+        {
+            "activation_code": "DEF456",
+            "used": false,
+            "UUID": "fedcba9876543210",
+            "expiry_date": "2023-12-31",
+            "created_at": "2023-03-15T12:00:00Z"
+        },
+    ]
+}
